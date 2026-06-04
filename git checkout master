@@ -1,0 +1,23 @@
+[33mcommit 8fb4322254a540c6075a7c417e46f418b8e4956e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mc[m[33m)[m
+Author: Shady Gamal <shadyg821@gmail.com>
+Date:   Thu Jun 4 10:28:10 2026 +0300
+
+    added new version of changes to c.txt
+
+[33mcommit 14eced8c961a33cd103194ed3668af7e2fb54c7b[m
+Author: Shady Gamal <shadyg821@gmail.com>
+Date:   Thu Jun 4 10:26:39 2026 +0300
+
+    added c.txt
+
+[33mcommit 7e3f8438f0c1c4ff125eb57f05646aba6a823f8c[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Shady Gamal <shadyg821@gmail.com>
+Date:   Wed Jun 3 15:57:24 2026 +0300
+
+    Added new line message
+
+[33mcommit 494786b542a087087195d217cc0b3913ea6f5496[m
+Author: Shady Gamal <shadyg821@gmail.com>
+Date:   Wed Jun 3 15:52:42 2026 +0300
+
+    added new file a.txt
